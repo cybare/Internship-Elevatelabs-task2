@@ -56,7 +56,6 @@ This is designed to panic users into clicking
 
 Real emails often include more specific contact details or footer formatting
 
----
 
 #### Step 6. Summary of Phishing Traits
 
@@ -90,23 +89,17 @@ Actual Link (on hover): Likely goes to a malicious or fake PayPal clone website.
 
 Remark: Generic text with a sense of urgency + data collection request.
 
----
-
 #### Step 3: Urgent and Threatening Language
 
 “You have 24 hours to solve the problem or your account will be permanently disabled.”
 
 Phishing emails often try to scare users into acting quickly without thinking.
 
----
-
 #### Step 4: Generic Greeting
 
 "Dear PayPal customer"
 
 Legitimate companies like PayPal address users by their real name.
-
----
 
 #### Step 5:  Spelling and Grammar Errors
 
@@ -115,8 +108,6 @@ Legitimate companies like PayPal address users by their real name.
 “permanetly” — (typo or missing elsewhere in real samples)
 
 These often indicate a low-effort phishing campaign.
-
----
 
 #### Step 6: Mismatched Domain Branding
 
@@ -127,8 +118,6 @@ Domain is fake
 Button doesn't go to `paypal.com`
 
 Email layout is simplistic
-
----
 
 #### Step 7: Summary of Phishing Traits
 
@@ -142,4 +131,4 @@ Email layout is simplistic
 | Visual impersonation         | Yes |
 | Realistic formatting (to deceive) | Yes |
 
-
+---
