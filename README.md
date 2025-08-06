@@ -16,7 +16,7 @@ A report listing phishing indicators found
 
 ### Solution:
 
-![Microsoft Phished email](MicrosoftPhishedEmail.png)
+![Microsoft Phished email](SampleEmail/MicrosoftPhishedEmail.png)
 
 #### Step 1: Examine sender's email address for spoofing.
 
