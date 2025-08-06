@@ -58,7 +58,7 @@ Real emails often include more specific contact details or footer formatting
 
 #### Step 6. Summary of Phishing Traits
 
-| Red Flag                        | Found |
+| Traits                        | Found |
 |-------------------------------|-------|
 | Spoofed sender address        | Yes |
 | Mismatched domain             | Yes |
