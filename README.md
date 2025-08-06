@@ -37,12 +37,11 @@ This is asking user to act quickly ("your account has been compromised")
 #### Step 3: Suspicious Links
 
 Links use like:
+-"Reset your password"
+  
+-"Learn how to make your account more secure"
 
-  - "Reset your password"
-  - 
-  - "Learn how to make your account more secure"
-  - 
-Hovering over the links (not visible in image) might show a **non-Microsoft domain**
+-Hovering over the links (not visible in image) might show a **non-Microsoft domain**
 
 #### Step 4: Urgent / Threatening Language
 
